@@ -1,0 +1,5 @@
+applications:
+ - name: optimistic-swirles
+   memory: 256M
+   host: optimistic-swirles
+   buildpack: staticfile_buildpack
